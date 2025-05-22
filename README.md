@@ -4,6 +4,9 @@
 
 BlackGallery is a comprehensive and innovative gallery app designed to showcase and organize your visual content in the most efficient and appealing way possible. With a focus on delivering a luminous and vibrant display, it serves as a library for your images, providing an extensive collection of features to enhance your viewing experience.
 
+![Status](https://img.shields.io/badge/status-not%20started-lightgrey)
+
+
 ## Galleries 🖼️
 
 ## License 📜
